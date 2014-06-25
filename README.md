@@ -50,9 +50,12 @@
 * *Trackpad*: Tap to click, X scroll direction, X swipe between pages 
 
 ###Chrome:
-* Set up gmail, drive, and 2-factor authentication
-* Suggested Extensions:
-**JSONView
+Set up gmail, drive, and 2-factor authentication
+Suggested Extensions:
+
+*JSONView
+*Pesticide
+*Live Reload
 
 ###Homebrew
 ````
@@ -74,7 +77,7 @@ brew update
 git config --global user.name "First Last"
 git config --global user.email "flast@2u.com"
 ````
-
+Make a work github and set up 2-factor authentication.
 
 ###Generate SSH keys:
 * Instructions:
@@ -90,7 +93,7 @@ pbcopy < ~/.ssh/id_rsa.pub
 ###Python, pip and virtualenv
 
 `````
-brew install python # python come with OSX but this installs pip and some other stuff
+brew install python # python comes with OSX but this installs pip and some other stuff
 pip install virtualenv
 `````
 
