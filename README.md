@@ -36,6 +36,14 @@
 * [Download](http://www.iterm2.com/#/section/home)
 * I highly recommend a [heads-up terminal](http://ivanvillareal.com/osx/setup-iterm2-to-behave-like-guake/) for running servers and a good color scheme such as [solarized](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized).
 
+
+### Get rid of the stupid dashboard thing
+* When is this thing going to die?
+* ````` defaults write com.apple.dashboard mcx-disabled -boolean true `````
+*````killall Dock`````
+ 
+
+
 ###Other Apps:
 * Alfred
 * Dash
