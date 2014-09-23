@@ -40,7 +40,7 @@
 ### Get rid of the stupid dashboard thing
 * When is this thing going to die?
 * ````` defaults write com.apple.dashboard mcx-disabled -boolean true `````
-*````killall Dock`````
+* ````killall Dock````
  
 
 
